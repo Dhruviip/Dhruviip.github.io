@@ -18,6 +18,8 @@
       <li>Jekyll and Github Page</li>
       <li>Blog</li>
    </ul>
+ <h2>Part 1 - GitHub Page</h2>
+ <p> To create a GitHub repository and to create multiple files and sub-directory. Creating files like css and html files. Once that has been accompolish to add comments and detail about the repository.</p>
     
   </body>
   </html>
