@@ -7,7 +7,7 @@
   </head>
   
   <body>
-<p><b>Lab 1: Git and Github</b></p>
+<h2><b>Lab 1: Git and Github</b></h2>
 
 <p> This lab is made to practice setting up, editing, developing and maintaining GitHub repository.</p>
 
@@ -18,7 +18,7 @@
       <li>Jekyll and Github Page</li>
       <li>Blog</li>
    </ul>
- <h2>Part 1 - GitHub Page</h2>
+ <h3>Part 1 - GitHub Page</h3>
  <p> To create a GitHub repository and to create multiple files and sub-directory. Creating files like css and html files. Once that has been accompolish to add comments and detail about the repository.</p>
     
   </body>
